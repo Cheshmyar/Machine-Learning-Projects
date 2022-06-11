@@ -1,0 +1,7 @@
+Diabetes Detection  
+Dataset: https://zenodo.org/record/4891308  
+Retinal Images of Diabetic and Healthy Eyes  
+Transfer Learning Using Inception V3  
+Labels:  
+Having Diabetes or Not  
+Evaluation Accuracy: 77.43%  
