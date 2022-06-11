@@ -1,0 +1,6 @@
+Keratoconus Detection  
+Harvard Keratoconus Dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G2CRMO  
+Using Simple DNN Based on Fully Connected Layers  
+Labels:  
+- 4 Level of Severity  
+Evaluation Accuracy: 95.73%  
