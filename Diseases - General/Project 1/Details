@@ -1,0 +1,14 @@
+Multi Eye Diseases Detection  
+ODIR5K Dataset: https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k  
+Retinal Images about 7 Eye Diseases  
+Using MIMO Autoencoders  
+Labels:  
+- Normal  
+- Diabetes  
+- Glaucoma  
+- Cataract  
+- Age related Macular Degeneration  
+- Hypertension  
+- Pathological Myopia  
+- Other diseases/abnormalities  
+Evaluation Accuracy: 100%
