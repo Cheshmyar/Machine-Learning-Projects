@@ -1,0 +1,4 @@
+Cataract Detection  
+Chashmyar Recorded Data: https://drive.google.com/drive/folders/1AWoZC7om1pWjxZc7JxSfNC0QwfSWZTzc?usp=sharing  
+1100 Samples, Including 550 General Cataract Images and 550 General Normal Images Data Augmentation Using Noise and Transfer Learning Using VGG16  
+Evaluation Accuracy: 61.36%
