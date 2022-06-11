@@ -1,6 +1,8 @@
 Corneal Ulcers Detection  
 Kaggle Dataset: https://www.kaggle.com/datasets/bongsang/eye-disease-deep-learning-dataset  
-Slit Lamp Images	Multi-Method Data Augmentation, Wavelet Transform and Transfer Learning	Labels:  
+Slit Lamp Images  
+Multi-Method Data Augmentation, Wavelet Transform and Transfer Learning  
+Labels:  
 - No ulcer of the corneal epithelium  
 - Micro punctate  
 - Macro punctate  
