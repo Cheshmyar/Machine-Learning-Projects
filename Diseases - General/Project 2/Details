@@ -1,0 +1,7 @@
+Multi Eye Diseases Detection  
+RETINAL FUNDUS MULTI-DISEASE IMAGE DATASET (RFMID): https://ieee-dataport.org/open-access/retinal-fundus-multi-disease-image-dataset-rfmid  
+Including different types of diseases/pathologies  
+Using MIMO Autoencoders and Transfer Learning  
+Labels:  
+- 45 diseases/pathologies  
+Evaluation Accuracy: 100%  
