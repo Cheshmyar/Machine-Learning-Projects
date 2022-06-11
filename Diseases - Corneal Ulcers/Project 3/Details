@@ -1,0 +1,11 @@
+Corneal Ulcers Detection  
+Kaggle Dataset: https://www.kaggle.com/datasets/bongsang/eye-disease-deep-learning-dataset  
+Slit Lamp Images  
+Multi-Method Data Augmentation, Wavelet Transform and Transfer Learning  
+Labels:  
+- grade 0: No ulcer of the corneal epithelium  
+- grade 1: Corneal ulcers involve only one surrounding quadrant  
+- grade 2: Corneal ulcers involve two surrounding quadrants  
+- grade 3: Corneal ulcers involve three or four surrounding quadrants  
+- grade 4: Corneal ulcers involve the central optical zone of the cornea  
+Evaluation Accuracy: 44.75%  
