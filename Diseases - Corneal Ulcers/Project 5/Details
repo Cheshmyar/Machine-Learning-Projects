@@ -1,0 +1,9 @@
+Corneal Ulcers Detection  
+Kaggle Dataset: https://www.kaggle.com/datasets/bongsang/eye-disease-deep-learning-dataset  
+Slit Lamp Images  
+Multi-Method Data Augmentation, Wavelet Transform, Transfer Learning and Residual Layers  
+Labels:  
+- No ulcer of the corneal epithelium  
+- Micro, Macro and Coalescent macro punctate  
+- Patch (>=1 mm)  
+Evaluation Accuracy: 100%
