@@ -1,0 +1,8 @@
+Corneal Ulcers Detection  
+Kaggle Dataset: https://www.kaggle.com/datasets/bongsang/eye-disease-deep-learning-dataset  
+Slit Lamp Images  
+Multi-Method Data Augmentation, Wavelet Transform, Transfer Learning and Residual Layers  
+Labels:  
+- Point-like corneal ulcers
+- Point-flaky corneal ulcers
+Evaluation Accuracy: 100%
