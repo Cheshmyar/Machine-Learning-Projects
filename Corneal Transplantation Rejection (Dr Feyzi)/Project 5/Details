@@ -1,0 +1,8 @@
+
+Corneal Transplantation Rejection  
+Data By Dr Feyzi:https://docs.google.com/spreadsheets/d/1_NJDgqH1mdvKLBJW9zNIaj7dtzsMI9rt/edit?usp=sharing&ouid=110659624888673298504&rtpof=true&sd=true  
+Based on Simple DNN and Class Balancing  
+Labels:  
+- Just Four-Time Rejection  
+- Just Five-Time Rejection  
+Evaluation Accuracy: 100%  
